@@ -1,4 +1,4 @@
-// Replace the YOUR_API_ENDPOINT_URL with yours
+// Replace the UPDATETOYOURENDPOINTADDRESS with yours
 // It should look something like this:
 // https://example1a2s3d.execute-api.us-east-1.amazonaws.com/prod/reminders
 
